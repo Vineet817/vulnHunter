@@ -51,8 +51,7 @@ graph LR
 
 ---
 
-## 💖 Built with Love
-Contributed with ❤️ by **[Naman](https://github.com/Naman-1508)**.
+
 
 > "Security is not a product, but a process." - Bruce Schneier
 
